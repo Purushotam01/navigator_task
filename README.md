@@ -6,7 +6,7 @@ A high-performance Flutter mobile application built with the **MVVM (Model-View-
 
 ##  Key Features
 
-*   **⚡ Splash Screen**: Handles immediate session verification (`Hive` + `SharedPreferences`) and navigates automatically based on login status.
+*   ** Splash Screen**: Handles immediate session verification (`Hive` + `SharedPreferences`) and navigates automatically based on login status.
 *   ** Local Authentication**:
     *   **Login Screen**: Clean, centered UI requiring email & password credentials validation.
     *   **Signup Screen**: Registers users locally with fields for Name, Email, Mobile, Password, Confirm Password, and a Profile Image selection.
